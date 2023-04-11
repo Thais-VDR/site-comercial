@@ -1,0 +1,10 @@
+.menu_item {
+    list-style: none;
+}
+
+.menu_login--separador {
+    list-style: none;
+    padding: 1px;
+    margin-right: 15px;
+    background-color: #f85c5c;
+}

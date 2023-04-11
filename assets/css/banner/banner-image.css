@@ -1,0 +1,5 @@
+.banner_imagem {
+    background: url('../../img/banner\ de\ pizza.webp') no-repeat center / cover;
+    width: 100%;
+    height: 100vh;
+}

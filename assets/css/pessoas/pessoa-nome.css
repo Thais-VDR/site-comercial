@@ -1,0 +1,15 @@
+.titulo {
+    color: #fc3939;
+    font-family: fantasy, cursive;
+    font-size: 3.1875rem;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+.pessoa_nome {
+    color: #fc3939;
+    font-family: fantasy, cursive;
+    font-size: 1.90rem;
+    margin-bottom: 1rem;
+    text-align: center;
+}

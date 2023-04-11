@@ -1,0 +1,18 @@
+.pessoa_imagem {
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    width: 300px;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+
+.pessoa_imagem--local {
+    background-image: url(../../img/pessoas/local.png);
+}
+
+.pessoa_imagem--delivery {
+    background-image: url(../../img/pessoas/delivery.png);
+}
